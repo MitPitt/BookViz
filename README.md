@@ -1,4 +1,7 @@
-# BookViz
+[![Презентация](https://img.youtube.com/vi/Y1qPeioydpE/maxresdefault.jpg)](https://youtu.be/Y1qPeioydpE)
+По ссылке презентация.
+
+# Можно визуализировать книгу в виде barcode или матрицы
 
 Пока книгу можно визуализировать только если она есть в [Национальном корпусе русского языка](https://ruscorpora.ru/).
 
